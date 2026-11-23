@@ -244,7 +244,7 @@ def fig_html(ch):
 
 
 def bar(left_html, right=""):
-    return '<div class="bar"><div>%s</div><div>润 泽 说 · 道 可 道 之 大 学　%s</div></div>' % (left_html, right)
+    return '<div class="bar"><div>%s</div><div>润 泽 说 · 道 可 道 之 中 庸　%s</div></div>' % (left_html, right)
 
 
 def chapter_body(idx, ch):
