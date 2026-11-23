@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460">
+  <title>第十七章 舜其大孝：德—位—禄—名—寿</title>
+  <desc>左首大德为因，向右次第为位、禄、名、寿，下轴标因材而笃，末点受命。</desc>
+  <rect x="0" y="0" width="760" height="460" fill="#F7F4EE"/>
+  <text x="380" y="44" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="18" fill="#25211D">德—位—禄—名—寿（因与果）</text>
+
+  <circle cx="110" cy="180" r="52" fill="#25211D"/>
+  <text x="110" y="176" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#FCFAF6">大德</text>
+  <text x="110" y="198" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#DCD5C8">因</text>
+
+  <line x1="162" y1="180" x2="212" y2="180" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="212" y="150" width="92" height="60" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="258" y="186" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">位</text>
+
+  <line x1="304" y1="180" x2="334" y2="180" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="334" y="150" width="92" height="60" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="380" y="186" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">禄</text>
+
+  <line x1="426" y1="180" x2="456" y2="180" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="456" y="150" width="92" height="60" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="502" y="186" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">名</text>
+
+  <line x1="548" y1="180" x2="578" y2="180" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="578" y="150" width="92" height="60" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="624" y="186" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">寿</text>
+
+  <line x1="80" y1="310" x2="680" y2="310" stroke="#DCD5C8" stroke-width="1.5"/>
+  <text x="120" y="300" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#7C6D5C">栽者培之</text>
+  <text x="640" y="300" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#7C6D5C">倾者覆之</text>
+  <text x="380" y="344" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#25211D">天之生物，必因其材而笃焉</text>
+
+  <circle cx="624" cy="392" r="10" fill="#994433"/>
+  <text x="648" y="397" font-family="'Noto Serif SC','Songti SC',serif" font-size="14" fill="#994433">受命</text>
+</svg>

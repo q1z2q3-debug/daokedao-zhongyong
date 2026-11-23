@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第十一章义理图：三条路的分岔</title>
+<desc>出发点分出三支：左支通向刻有有述的碑、中支半途断崖、右支无路标长路末端标不悔。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">两条求人知，一条求自知</text>
+
+<circle cx="90" cy="250" r="8" fill="#25211D"/>
+<text x="90" y="282" font-size="11" text-anchor="middle" fill="#7C6D5C">起</text>
+
+<path d="M100 244 C 180 180, 240 150, 300 140" stroke="#7C6D5C" stroke-width="1.4" fill="none"/>
+<rect x="300" y="112" width="60" height="46" fill="#FCFAF6" stroke="#7C6D5C"/>
+<text x="330" y="140" font-size="12" text-anchor="middle" fill="#25211D">有述</text>
+<text x="330" y="180" font-size="11" text-anchor="middle" fill="#7C6D5C">素隐行怪：求名</text>
+
+<path d="M100 250 C 180 250, 240 250, 300 246" stroke="#7C6D5C" stroke-width="1.4" fill="none"/>
+<line x1="300" y1="210" x2="300" y2="282" stroke="#994433" stroke-dasharray="5 4"/>
+<text x="316" y="230" font-size="11" fill="#994433">半涂而废</text>
+<text x="360" y="262" font-size="11" text-anchor="middle" fill="#7C6D5C">遵道而行：求快</text>
+
+<path d="M100 256 C 200 320, 300 360, 420 388" stroke="#994433" stroke-width="1.4" fill="none"/>
+<line x1="420" y1="388" x2="640" y2="420" stroke="#994433" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="530" y="404" font-size="11" text-anchor="middle" fill="#7C6D5C">没有路标</text>
+<text x="660" y="426" font-size="13" fill="#994433">不悔</text>
+<text x="430" y="446" font-size="11" fill="#7C6D5C">遯世不见知：无与于外</text>
+</g>
+</svg>

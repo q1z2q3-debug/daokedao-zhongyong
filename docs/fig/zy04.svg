@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第四章义理图：两端与一条线</title>
+<desc>横线为道，左端不及，右端过，中间一点加朱为中；线下标不行与不明两病。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">过与不及，同是离开那条线</text>
+
+<line x1="70" y1="180" x2="650" y2="180" stroke="#25211D" stroke-width="1.5"/>
+<polygon points="650,180 640,175 640,185" fill="#25211D"/>
+
+<circle cx="150" cy="180" r="5" fill="#7C6D5C"/>
+<circle cx="360" cy="180" r="6" fill="#994433"/>
+<circle cx="570" cy="180" r="5" fill="#7C6D5C"/>
+
+<text x="150" y="160" font-size="14" text-anchor="middle" fill="#25211D">不及</text>
+<text x="150" y="212" font-size="11" text-anchor="middle" fill="#7C6D5C">愚者　不肖者</text>
+<text x="150" y="230" font-size="11" text-anchor="middle" fill="#7C6D5C">够不着</text>
+
+<text x="360" y="158" font-size="15" text-anchor="middle" fill="#994433">中</text>
+<text x="360" y="212" font-size="11" text-anchor="middle" fill="#7C6D5C">不是折中，是此刻正点</text>
+
+<text x="570" y="160" font-size="14" text-anchor="middle" fill="#25211D">过</text>
+<text x="570" y="212" font-size="11" text-anchor="middle" fill="#7C6D5C">知者　贤者</text>
+<text x="570" y="230" font-size="11" text-anchor="middle" fill="#7C6D5C">走过头</text>
+
+<rect x="60" y="292" width="600" height="128" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="80" y="322" font-size="12" fill="#7C6D5C">两病同根</text>
+<text x="80" y="350" font-size="12" fill="#25211D">不行：事上落不下　　不明：理上讲不清</text>
+<text x="80" y="376" font-size="12" fill="#25211D">过从长处来：越有把握，越容易替道加戏</text>
+<text x="80" y="402" font-size="11" fill="#7C6D5C">人莫不饮食，鲜能知味：道在碗里，也要尝得出</text>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460">
+  <title>第十八章 无忧者文王：作—述—礼三代一线</title>
+  <desc>上排王季作、文王承、武王述，下接周公制礼；纵线标四代王绪；下方等差与一律两组对照。</desc>
+  <rect x="0" y="0" width="760" height="460" fill="#F7F4EE"/>
+  <text x="380" y="42" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="18" fill="#25211D">作—述—礼：三代相承一线</text>
+
+  <rect x="70" y="86" width="120" height="64" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="130" y="114" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">王季</text>
+  <text x="130" y="136" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">作之</text>
+
+  <line x1="190" y1="118" x2="238" y2="118" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="238" y="86" width="120" height="64" rx="6" fill="#25211D"/>
+  <text x="298" y="114" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#FCFAF6">文王</text>
+  <text x="298" y="136" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#DCD5C8">承上下</text>
+
+  <line x1="358" y1="118" x2="406" y2="118" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="406" y="86" width="120" height="64" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="466" y="114" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#25211D">武王</text>
+  <text x="466" y="136" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">述之</text>
+
+  <line x1="526" y1="118" x2="574" y2="118" stroke="#7C6D5C" stroke-width="1.5"/>
+  <rect x="574" y="86" width="120" height="64" rx="6" fill="#FCFAF6" stroke="#994433" stroke-width="1.2"/>
+  <text x="634" y="114" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#994433">周公</text>
+  <text x="634" y="136" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">成德制礼</text>
+
+  <line x1="130" y1="178" x2="634" y2="178" stroke="#DCD5C8" stroke-width="1.5"/>
+  <text x="380" y="200" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#25211D">绪：大王—王季—文王—武王，四代相续</text>
+
+  <rect x="80" y="250" width="280" height="110" rx="6" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.2"/>
+  <text x="220" y="282" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="14" fill="#25211D">等差</text>
+  <text x="220" y="310" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">葬以死者之爵　祭以生者之禄</text>
+  <text x="220" y="336" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">期丧达大夫　三年丧达天子</text>
+
+  <rect x="400" y="250" width="280" height="110" rx="6" fill="#FCFAF6" stroke="#994433" stroke-width="1.2"/>
+  <text x="540" y="282" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="14" fill="#994433">一律</text>
+  <text x="540" y="310" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">父母之丧</text>
+  <text x="540" y="336" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">无贵贱，一也</text>
+
+  <text x="380" y="410" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#25211D">父作子述，业以世续；礼辨其分，丧同其亲</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第七章义理图：两枪打一处</title>
+<desc>左为网与坑，标看不出险；右为一条线，脚印半格即断，标守不住中；中间竖线连到同一处予知。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">两个破绽，一个病根</text>
+
+<rect x="60" y="90" width="270" height="230" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="195" y="118" font-size="12" text-anchor="middle" fill="#7C6D5C">看不出险：伤身</text>
+<path d="M110 150 l 60 0 l 0 40 l 60 0" stroke="#7C6D5C" stroke-width="1.4" fill="none"/>
+<path d="M110 150 l 0 60 l 60 0 l 0 60 l 60 0" stroke="#7C6D5C" stroke-width="1" fill="none"/>
+<ellipse cx="210" cy="250" rx="46" ry="16" fill="#F7F4EE" stroke="#994433" stroke-width="1.4"/>
+<text x="210" y="255" font-size="11" text-anchor="middle" fill="#994433">坑：写着「机会」</text>
+<text x="195" y="300" font-size="11" text-anchor="middle" fill="#7C6D5C">陷阱不写陷阱，写机会</text>
+
+<rect x="390" y="90" width="270" height="230" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="525" y="118" font-size="12" text-anchor="middle" fill="#7C6D5C">守不住中：伤德</text>
+<line x1="420" y1="200" x2="630" y2="200" stroke="#25211D" stroke-width="1.4"/>
+<circle cx="450" cy="200" r="4" fill="#994433"/>
+<circle cx="480" cy="200" r="4" fill="#994433"/>
+<circle cx="510" cy="200" r="4" fill="#7C6D5C"/>
+<line x1="510" y1="200" x2="540" y2="200" stroke="#DCD5C8" stroke-width="1" stroke-dasharray="4 5"/>
+<text x="525" y="228" font-size="11" text-anchor="middle" fill="#7C6D5C">期月未满，线已断</text>
+<text x="525" y="300" font-size="11" text-anchor="middle" fill="#7C6D5C">不是没走，是没走满</text>
+
+<line x1="360" y1="330" x2="360" y2="380" stroke="#994433" stroke-width="1.2"/>
+<text x="360" y="402" font-size="14" text-anchor="middle" fill="#994433">予知：以知为足</text>
+<text x="360" y="426" font-size="11" text-anchor="middle" fill="#7C6D5C">聪明不是资本，是遮羞布</text>
+</g>
+</svg>

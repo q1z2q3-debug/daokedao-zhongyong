@@ -1,0 +1,59 @@
+# 润泽说 道可道之中庸 · 通释
+
+> 《中庸》全本读本，三十三章。底本朱熹《四书章句集注·中庸章句》，朱子所分三十三章。
+> 卷首冠序一篇，次前言七节；正文每章十二节：导读、经文、字义与句读、今译、章旨、朱子注、分寸与边界、义理、时代之问、跨典、存疑、双卡与图；章末附少年读。
+> 古本《礼记·中庸》全文、古本—朱子本对照、校勘记、存疑录、关键字索引、三十三章章旨表见附录。
+
+## 卷首
+- 序 · 前言：https://q1z2q3-debug.github.io/daokedao-zhongyong/book.html
+
+## 章
+- 第一章｜天命之谓性｜性、道、教一名三事；慎独为入处：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy01.html
+- 第二章｜君子中庸｜中庸与反中庸，只在一「无忌惮」：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy02.html
+- 第三章｜民鲜能久｜至德而鲜能，非难在知，难在久：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy03.html
+- 第四章｜道之不行｜知者过之、愚者不及，明与暗同失：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy04.html
+- 第五章｜道其不行｜一句承上起下：道之不行，由此见端：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy05.html
+- 第六章｜舜其大知｜执两用中，大知在问与择：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy06.html
+- 第七章｜予知｜两处「予知」：知祸不辟、能择不守：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy07.html
+- 第八章｜回之为人｜拳拳服膺，守在一善不失：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy08.html
+- 第九章｜中庸不可能｜三难可做，中庸难在恰好：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy09.html
+- 第十章｜子路问强｜南方之强与北方之强，强有四种：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy10.html
+- 第十一章｜素隐行怪｜避世求名与遁世无闷，两端之别：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy11.html
+- 第十二章｜费而隐｜道广大而细微，造端乎夫妇：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy12.html
+- 第十三章｜道不远人｜以人治人，忠恕为则：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy13.html
+- 第十四章｜素其位｜素位而行，无入而不自得：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy14.html
+- 第十五章｜行远自迩｜迩与远是一件事的两端；家和为始：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy15.html
+- 第十六章｜鬼神之为德｜诚之不可掩，如在上下：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy16.html
+- 第十七章｜舜其大孝｜大德必得其位、禄、名、寿：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy17.html
+- 第十八章｜无忧者文王｜文王无忧，在父与子之间：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy18.html
+- 第十九章｜达孝｜达孝在礼，宗庙郊社皆是：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy19.html
+- 第二十章｜哀公问政｜人存政举；五达道、三达德、九经：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy20.html
+- 第二十一章｜自诚明｜自诚明、自明诚：天道与人道的两条入口：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy21.html
+- 第二十二章｜至诚尽性｜尽性至尽人尽物，与天地参：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy22.html
+- 第二十三章｜其次致曲｜不能全者，从一曲入，曲能有诚：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy23.html
+- 第二十四章｜至诚如神｜祯祥妖孽之萌，诚者先知：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy24.html
+- 第二十五章｜诚者自成｜诚是自成，不是成物之具：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy25.html
+- 第二十六章｜至诚无息｜无息则久、则征、则悠远博厚高明：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy26.html
+- 第二十七章｜大哉圣人之道｜尊德性而道问学，致广大而尽精微：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy27.html
+- 第二十八章｜愚而好自用｜无德无位，不敢作礼乐：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy28.html
+- 第二十九章｜三重｜本诸身、征诸庶民、考诸三王：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy29.html
+- 第三十章｜祖述尧舜｜小德川流，大德敦化：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy30.html
+- 第三十一章｜至圣｜至圣之德，溥博渊泉而时出之：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy31.html
+- 第三十二章｜至诚经纶｜肫肫其仁、渊渊其渊、浩浩其天：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy32.html
+- 第三十三章｜衣锦尚絅｜暗然而日章；知远之近、知风之自、知微之显：https://q1z2q3-debug.github.io/daokedao-zhongyong/ch/zy33.html
+
+## 附录
+- 附录首页｜附录首页：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/index.html
+- 附录一｜古本全文：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/01-guben.html
+- 附录二｜古本—朱子本对照表：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/02-duizhao.html
+- 附录三｜校勘记：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/03-jiaokan.html
+- 附录四｜存疑录：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/04-cunyi.html
+- 附录五｜关键字索引：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/05-suoyin.html
+- 附录六｜三十三章章旨表：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/06-zhangzhi.html
+
+## 引用
+润泽《润泽说 道可道之中庸》v1.0.0，https://q1z2q3-debug.github.io/daokedao-zhongyong/
+
+## 义理口径
+中庸是度：两端之间，此刻该站的那一点，不是折中。诚是自成：自己对自己不欺，不是对别人坦白。
+性、命、天：性为所受，命为所赋，天为所自；三者一名三面。不新造名相；凡解读须指回原文字句，指不回者入存疑。

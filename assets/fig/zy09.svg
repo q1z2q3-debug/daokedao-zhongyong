@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第九章义理图：三座山与一条路</title>
+<desc>左三座封顶尖峰标均天下、辞爵禄、蹈白刃，注一次可成；右一条无尽头长路，每隔一段有一中点亮，注每次都要对。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">翻过三座山，不等于走完那条路</text>
+
+<path d="M40 300 L 110 160 L 180 300 Z" fill="#FCFAF6" stroke="#7C6D5C"/>
+<path d="M150 300 L 220 120 L 290 300 Z" fill="#FCFAF6" stroke="#7C6D5C"/>
+<path d="M260 300 L 330 170 L 400 300 Z" fill="#FCFAF6" stroke="#7C6D5C"/>
+
+<text x="110" y="322" font-size="11" text-anchor="middle" fill="#25211D">均天下</text>
+<text x="220" y="322" font-size="11" text-anchor="middle" fill="#25211D">辞爵禄</text>
+<text x="330" y="322" font-size="11" text-anchor="middle" fill="#25211D">蹈白刃</text>
+<text x="220" y="348" font-size="11" text-anchor="middle" fill="#7C6D5C">一次可成：壮举有终点</text>
+
+<line x1="60" y1="420" x2="660" y2="420" stroke="#994433" stroke-width="1.6"/>
+<polygon points="668,420 656,415 656,425" fill="#994433"/>
+<circle cx="180" cy="420" r="4" fill="#994433"/>
+<circle cx="290" cy="420" r="4" fill="#994433"/>
+<circle cx="400" cy="420" r="4" fill="#994433"/>
+<circle cx="510" cy="420" r="4" fill="#994433"/>
+<circle cx="620" cy="420" r="4" fill="#994433"/>
+<text x="400" y="446" font-size="11" text-anchor="middle" fill="#7C6D5C">常：没有完成的那一刻，每次都要在点上</text>
+
+<text x="60" y="380" font-size="11" fill="#7C6D5C">力能举千斤，不能守一寸</text>
+</g>
+</svg>

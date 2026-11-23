@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <title>ZY20 哀公问政义理图：政—身—诚主线与九经推扩</title>
+  <desc>上排为主线：为政在人、取人以身、修身以道、修道以仁、诚；下排九格为九经，收束于一诚；另列五达道与三达德两栏。</desc>
+  <rect x="0" y="0" width="960" height="600" fill="#F7F4EE"/>
+  <text x="480" y="40" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="18" fill="#25211D">第二十章　哀公问政：政—身—诚与九经推扩</text>
+
+  <g font-family="'Noto Serif SC','Songti SC',serif" font-size="13" fill="#25211D">
+    <rect x="40" y="80" width="150" height="60" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="115" y="106" text-anchor="middle">为政在人</text>
+    <text x="115" y="126" text-anchor="middle" font-size="11" fill="#7C6D5C">人存政举</text>
+
+    <line x1="190" y1="110" x2="225" y2="110" stroke="#994433" stroke-width="1.5"/>
+    <polygon points="225,110 218,106 218,114" fill="#994433"/>
+
+    <rect x="225" y="80" width="150" height="60" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="300" y="106" text-anchor="middle">取人以身</text>
+    <text x="300" y="126" text-anchor="middle" font-size="11" fill="#7C6D5C">身指君身</text>
+
+    <line x1="375" y1="110" x2="410" y2="110" stroke="#994433" stroke-width="1.5"/>
+    <polygon points="410,110 403,106 403,114" fill="#994433"/>
+
+    <rect x="410" y="80" width="150" height="60" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="485" y="106" text-anchor="middle">修身以道</text>
+    <text x="485" y="126" text-anchor="middle" font-size="11" fill="#7C6D5C">道即达道</text>
+
+    <line x1="560" y1="110" x2="595" y2="110" stroke="#994433" stroke-width="1.5"/>
+    <polygon points="595,110 588,106 588,114" fill="#994433"/>
+
+    <rect x="595" y="80" width="150" height="60" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="670" y="106" text-anchor="middle">修道以仁</text>
+    <text x="670" y="126" text-anchor="middle" font-size="11" fill="#7C6D5C">亲亲为大</text>
+
+    <line x1="745" y1="110" x2="780" y2="110" stroke="#994433" stroke-width="1.5"/>
+    <polygon points="780,110 773,106 773,114" fill="#994433"/>
+
+    <rect x="780" y="80" width="140" height="60" rx="6" fill="#994433" stroke="#994433" stroke-width="1.5"/>
+    <text x="850" y="106" text-anchor="middle" fill="#FCFAF6">诚</text>
+    <text x="850" y="126" text-anchor="middle" font-size="11" fill="#FCFAF6">天道／人道</text>
+  </g>
+
+  <g font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#25211D">
+    <text x="40" y="190" font-size="13" fill="#7C6D5C">五达道</text>
+    <rect x="40" y="205" width="380" height="44" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="230" y="232" text-anchor="middle">君臣　父子　夫妇　昆弟　朋友之交</text>
+
+    <text x="540" y="190" font-size="13" fill="#7C6D5C">三达德</text>
+    <rect x="540" y="205" width="380" height="44" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+    <text x="730" y="232" text-anchor="middle">知　仁　勇　｜　所以行之者一：诚</text>
+  </g>
+
+  <g font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#25211D">
+    <text x="40" y="300" font-size="13" fill="#7C6D5C">九经（由身及天下，根在修身）</text>
+    <g>
+      <rect x="40" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="86" y="340" text-anchor="middle">修身</text>
+      <text x="86" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">道立</text>
+      <rect x="142" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="188" y="340" text-anchor="middle">尊贤</text>
+      <text x="188" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">不惑</text>
+      <rect x="244" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="290" y="340" text-anchor="middle">亲亲</text>
+      <text x="290" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">不怨</text>
+      <rect x="346" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="392" y="340" text-anchor="middle">敬大臣</text>
+      <text x="392" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">不眩</text>
+      <rect x="448" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="494" y="340" text-anchor="middle">体群臣</text>
+      <text x="494" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">报礼重</text>
+      <rect x="550" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="596" y="340" text-anchor="middle">子庶民</text>
+      <text x="596" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">百姓劝</text>
+      <rect x="652" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="698" y="340" text-anchor="middle">来百工</text>
+      <text x="698" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">财用足</text>
+      <rect x="754" y="315" width="92" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="800" y="340" text-anchor="middle">柔远人</text>
+      <text x="800" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">四方归</text>
+      <rect x="856" y="315" width="72" height="56" rx="6" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+      <text x="892" y="340" text-anchor="middle">怀诸侯</text>
+      <text x="892" y="358" text-anchor="middle" font-size="11" fill="#7C6D5C">天下畏</text>
+    </g>
+    <line x1="86" y1="371" x2="892" y2="371" stroke="#DCD5C8" stroke-width="1"/>
+    <line x1="86" y1="371" x2="86" y2="410" stroke="#994433" stroke-width="1.5"/>
+    <line x1="892" y1="371" x2="892" y2="410" stroke="#994433" stroke-width="1.5"/>
+    <line x1="86" y1="410" x2="892" y2="410" stroke="#994433" stroke-width="1.5"/>
+    <text x="489" y="432" text-anchor="middle" fill="#994433">凡九经，所以行之者一也：诚</text>
+  </g>
+
+  <g font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">
+    <text x="40" y="490">诚之者工夫：博学　审问　慎思　明辨　笃行　｜　人一能之己百之，人十能之己千之</text>
+    <text x="40" y="520">读图：上排由外向内收，止于诚；下排九经铺开，根仍在首格修身；达道、达德共以一诚为支点。</text>
+    <text x="40" y="550">图说：上排讲根，下排讲枝；枝再繁，收在一根。</text>
+  </g>
+</svg>

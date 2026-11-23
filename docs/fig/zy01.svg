@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第一章义理图：性—道—教与慎独—中和</title>
+<desc>上排自左而右四格：天命、性、道、教，表示一次赋予的三次指认；下排一条横轴，左端未发之中（收），右端发而中节之和（放），轴下居中为慎独支点。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<rect x="24" y="24" width="672" height="132" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="52" font-size="13" text-anchor="middle" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif" letter-spacing="3">上排　一次赋予，三次指认</text>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="52" y="72" width="128" height="62" fill="#F7F4EE" stroke="#7C6D5C"/>
+<text x="116" y="98" font-size="16" text-anchor="middle" fill="#25211D">天命</text>
+<text x="116" y="120" font-size="11" text-anchor="middle" fill="#7C6D5C">来源（所自）</text>
+
+<rect x="216" y="72" width="128" height="62" fill="#FCFAF6" stroke="#994433"/>
+<text x="280" y="98" font-size="16" text-anchor="middle" fill="#994433">性</text>
+<text x="280" y="120" font-size="11" text-anchor="middle" fill="#7C6D5C">所受（所禀）</text>
+
+<rect x="380" y="72" width="128" height="62" fill="#F7F4EE" stroke="#7C6D5C"/>
+<text x="444" y="98" font-size="16" text-anchor="middle" fill="#25211D">道</text>
+<text x="444" y="120" font-size="11" text-anchor="middle" fill="#7C6D5C">方向（所行）</text>
+
+<rect x="544" y="72" width="128" height="62" fill="#F7F4EE" stroke="#7C6D5C"/>
+<text x="608" y="98" font-size="16" text-anchor="middle" fill="#25211D">教</text>
+<text x="608" y="120" font-size="11" text-anchor="middle" fill="#7C6D5C">做法（所传）</text>
+</g>
+
+<line x1="180" y1="103" x2="212" y2="103" stroke="#994433" stroke-width="1.2"/>
+<polygon points="212,103 204,99 204,107" fill="#994433"/>
+<line x1="344" y1="103" x2="376" y2="103" stroke="#994433" stroke-width="1.2"/>
+<polygon points="376,103 368,99 368,107" fill="#994433"/>
+<line x1="508" y1="103" x2="540" y2="103" stroke="#994433" stroke-width="1.2"/>
+<polygon points="540,103 532,99 532,107" fill="#994433"/>
+<text x="360" y="146" font-size="11" text-anchor="middle" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">源同、向同、法同：一件东西的三个说法</text>
+
+<rect x="24" y="182" width="672" height="268" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="210" font-size="13" text-anchor="middle" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif" letter-spacing="3">下排　两种状态，一个支点</text>
+
+<line x1="80" y1="300" x2="640" y2="300" stroke="#25211D" stroke-width="1.4"/>
+<polygon points="640,300 630,295 630,305" fill="#25211D"/>
+<polygon points="80,300 90,295 90,305" fill="#25211D"/>
+
+<circle cx="170" cy="300" r="7" fill="#994433"/>
+<circle cx="550" cy="300" r="7" fill="#994433"/>
+<circle cx="360" cy="300" r="9" fill="#25211D"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="170" y="272" font-size="16" text-anchor="middle" fill="#994433">未发之中</text>
+<text x="170" y="290" font-size="11" text-anchor="middle" fill="#7C6D5C">体｜收（阴）</text>
+<text x="170" y="330" font-size="11" text-anchor="middle" fill="#7C6D5C">大本</text>
+
+<text x="550" y="272" font-size="16" text-anchor="middle" fill="#994433">发而中节之和</text>
+<text x="550" y="290" font-size="11" text-anchor="middle" fill="#7C6D5C">用｜放（阳）</text>
+<text x="550" y="330" font-size="11" text-anchor="middle" fill="#7C6D5C">达道</text>
+
+<text x="360" y="272" font-size="15" text-anchor="middle" fill="#25211D">慎独</text>
+<text x="360" y="290" font-size="11" text-anchor="middle" fill="#7C6D5C">无人知而己独知</text>
+<text x="360" y="330" font-size="11" text-anchor="middle" fill="#7C6D5C">支点</text>
+</g>
+
+<line x1="360" y1="309" x2="360" y2="368" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="228" y="368" width="264" height="40" fill="#FCFAF6" stroke="#994433"/>
+<text x="360" y="393" font-size="13" text-anchor="middle" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">致中和　天地位　万物育</text>
+
+<text x="86" y="378" font-size="11" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">戒慎</text>
+<text x="86" y="394" font-size="11" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">恐惧</text>
+<text x="604" y="378" font-size="11" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">莫见乎隐</text>
+<text x="604" y="394" font-size="11" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">莫显乎微</text>
+<text x="360" y="436" font-size="11" text-anchor="middle" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">图 · 第一章义理图</text>
+</svg>

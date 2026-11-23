@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第六章义理图：众声炼中</title>
+<desc>漏斗形：底层迩言，中层隐恶扬善两道筛，顶端一点为中，箭头直落民。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">中从众声里来</text>
+
+<path d="M120 140 L 600 140 L 430 250 L 290 250 Z" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="128" font-size="12" text-anchor="middle" fill="#7C6D5C">好问 · 察迩言（收材料）</text>
+
+<line x1="290" y1="250" x2="430" y2="250" stroke="#7C6D5C" stroke-width="1.2"/>
+<line x1="290" y1="300" x2="430" y2="300" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="360" y="272" font-size="12" text-anchor="middle" fill="#25211D">隐恶（阴·收）</text>
+<text x="360" y="322" font-size="13" text-anchor="middle" fill="#25211D">扬善（阳·放）</text>
+
+<circle cx="360" cy="360" r="8" fill="#994433"/>
+<text x="392" y="366" font-size="14" fill="#994433">中</text>
+<text x="392" y="386" font-size="11" fill="#7C6D5C">执两端，用其中</text>
+
+<line x1="360" y1="368" x2="360" y2="420" stroke="#994433" stroke-width="1.4"/>
+<polygon points="360,428 354,416 366,416" fill="#994433"/>
+<text x="360" y="452" font-size="13" text-anchor="middle" fill="#25211D">民</text>
+
+<text x="100" y="180" font-size="11" fill="#7C6D5C">迩言：浅近话</text>
+<text x="100" y="200" font-size="11" fill="#7C6D5C">高论多是对的</text>
+<text x="100" y="220" font-size="11" fill="#7C6D5C">浅近话才是真的</text>
+</g>
+</svg>
