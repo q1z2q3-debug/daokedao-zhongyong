@@ -257,12 +257,12 @@ def chapter_body(idx, ch):
         frag = re.sub(r'(<h2[^>]*>少年读</h2>)', fig + r"\1", frag, count=1)
     else:
         print("[warn] 缺图：", ch["id"])
-    prev_h = "book.html" if idx == 0 else CH[idx - 1]["page"].split("/")[-1]
+    prev_h = "../book.html" if idx == 0 else CH[idx - 1]["page"].split("/")[-1]
     prev_n = "卷首" if idx == 0 else CH[idx - 1]["章号"]
     if idx + 1 < len(CH):
         next_h, next_n = CH[idx + 1]["page"].split("/")[-1], CH[idx + 1]["章号"]
     else:
-        next_h, next_n = "fu/index.html", "附录"
+        next_h, next_n = "../fu/index.html", "附录"
     pn = ('<div class="pn"><div><a href="%s">← %s</a></div>'
           '<div class="mid"><a href="../index.html">目录</a>　<a href="../book.html">卷首</a></div>'
           '<div class="right"><a href="%s">%s →</a></div></div>'

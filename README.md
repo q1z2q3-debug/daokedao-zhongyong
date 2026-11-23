@@ -1,7 +1,7 @@
 # 润泽说 道可道之中庸
 
 > 《中庸》三十三章通释读本。底本朱熹《四书章句集注·中庸章句》，参校《礼记正义·中庸》郑玄注、孔颖达疏。
-> 作者：润泽（润泽博士）· 在线读：<https://q1z2q3-debug.github.io/daokedao-zhongyong/> · v1.0.0
+> 作者：润泽（润泽博士）· 在线读：<https://q1z2q3-debug.github.io/daokedao-zhongyong/> · v1.0.1
 
 ## 是什么
 
@@ -28,4 +28,4 @@ python3 scripts/build_site.py     # 构建站点到 docs/
 
 ## 引用
 
-润泽《润泽说 道可道之中庸》v1.0.0，<https://q1z2q3-debug.github.io/daokedao-zhongyong/>。底本朱熹《中庸章句》，古本参校《礼记正义》。许可 CC BY-NC-SA 4.0。
+润泽《润泽说 道可道之中庸》v1.0.1，<https://q1z2q3-debug.github.io/daokedao-zhongyong/>。底本朱熹《中庸章句》，古本参校《礼记正义》。许可 CC BY-NC-SA 4.0。

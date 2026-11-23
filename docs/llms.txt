@@ -52,7 +52,7 @@
 - 附录六｜三十三章章旨表：https://q1z2q3-debug.github.io/daokedao-zhongyong/fu/06-zhangzhi.html
 
 ## 引用
-润泽《润泽说 道可道之中庸》v1.0.0，https://q1z2q3-debug.github.io/daokedao-zhongyong/
+润泽《润泽说 道可道之中庸》v1.0.1，https://q1z2q3-debug.github.io/daokedao-zhongyong/
 
 ## 义理口径
 中庸是度：两端之间，此刻该站的那一点，不是折中。诚是自成：自己对自己不欺，不是对别人坦白。
