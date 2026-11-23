@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>至诚如神图：从微到显</title>
+<desc>一条横线自左向右标未兆、几、显、成，于几处画一只眼；线上方浅赭点为祯祥，下方墨点为妖孽。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<path d="M60 260 H660" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M660 260 l-16 -6 v12 Z" fill="#7C6D5C"/>
+<circle cx="60" cy="260" r="3" fill="#DCD5C8"/>
+<circle cx="250" cy="260" r="3" fill="#994433"/>
+<circle cx="420" cy="260" r="3" fill="#DCD5C8"/>
+<circle cx="590" cy="260" r="3" fill="#25211D"/>
+<text x="44" y="292" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">未兆</text>
+<text x="232" y="292" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">几</text>
+<text x="404" y="292" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">显</text>
+<text x="574" y="292" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">成</text>
+<ellipse cx="250" cy="226" rx="26" ry="12" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<circle cx="250" cy="226" r="4" fill="#25211D"/>
+<text x="286" y="212" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">察其几</text>
+<circle cx="180" cy="196" r="3" fill="#994433" opacity="0.8"/>
+<circle cx="210" cy="178" r="4" fill="#994433" opacity="0.7"/>
+<circle cx="246" cy="166" r="5" fill="#994433" opacity="0.55"/>
+<circle cx="380" cy="196" r="3" fill="#25211D" opacity="0.7"/>
+<circle cx="414" cy="178" r="4" fill="#25211D" opacity="0.55"/>
+<circle cx="450" cy="166" r="5" fill="#25211D" opacity="0.4"/>
+<text x="60" y="72" font-size="15" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">至诚之道，可以前知</text>
+<text x="60" y="430" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">上点为祯祥，下点为妖孽；越往右越成形，越难改</text>
+</svg>

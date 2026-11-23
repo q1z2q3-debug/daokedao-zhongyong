@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" role="img">
+<title>达孝图：时间轴与宗庙五序</title>
+<desc>左侧一条向下的时间轴，标祖、父、己、后；右侧五道横格依次为昭穆、爵、事、旅酬、燕毛；底端一双手掌托着一座小城。</desc>
+<rect x="0" y="0" width="480" height="720" fill="#F7F4EE"/>
+<path d="M96 96 V596" stroke="#7C6D5C" stroke-width="2"/>
+<path d="M96 612 l-6 -14 h12 Z" fill="#7C6D5C"/>
+<g font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">
+<circle cx="96" cy="126" r="4" fill="#994433"/><text x="52" y="131">祖</text>
+<circle cx="96" cy="242" r="4" fill="#994433"/><text x="52" y="247">父</text>
+<circle cx="96" cy="358" r="4" fill="#994433"/><text x="52" y="363">己</text>
+<circle cx="96" cy="474" r="4" fill="#994433"/><text x="52" y="479">后</text>
+</g>
+<g font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">
+<text x="20" y="642">时间</text>
+</g>
+<g stroke="#DCD5C8" stroke-width="1" fill="#FCFAF6">
+<rect x="176" y="132" width="272" height="56"/>
+<rect x="176" y="200" width="272" height="56"/>
+<rect x="176" y="268" width="272" height="56"/>
+<rect x="176" y="336" width="272" height="56"/>
+<rect x="176" y="404" width="272" height="56"/>
+</g>
+<g font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">
+<text x="192" y="166">昭穆：谁是谁</text>
+<text x="192" y="234">序爵：谁尊谁卑</text>
+<text x="192" y="302">序事：谁贤谁能</text>
+<text x="192" y="370">旅酬：位低者申敬</text>
+<text x="192" y="438">燕毛：年长者有坐处</text>
+</g>
+<g stroke="#7C6D5C" stroke-width="1.2" fill="none">
+<path d="M150 520 C200 560 300 560 350 526"/>
+<path d="M204 540 C214 516 268 516 278 540"/>
+</g>
+<rect x="222" y="492" width="42" height="30" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<path d="M218 492 L243 476 L268 492" fill="none" stroke="#994433" stroke-width="1.5"/>
+<path d="M480 520" fill="none"/>
+<text x="300" y="512" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">治国如示诸掌</text>
+<text x="40" y="56" font-size="15" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">达孝：继志　述事</text>
+</svg>

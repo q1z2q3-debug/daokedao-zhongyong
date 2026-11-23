@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>至圣图：五柱托天</title>
+<desc>下方五根立柱各标一德，柱上托弧形天幕写溥博如天，渊泉如渊；柱根连于一潭。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<path d="M60 190 C220 92 500 92 660 190" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+<text x="360" y="128" font-size="14" fill="#25211D" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">溥博如天</text>
+<g stroke="#994433" stroke-width="3">
+<path d="M132 330 V240"/><path d="M240 330 V240"/><path d="M348 330 V240"/><path d="M456 330 V240"/><path d="M564 330 V240"/>
+</g>
+<ellipse cx="348" cy="360" rx="240" ry="30" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+<text x="348" y="404" font-size="12" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">渊泉：静深而有本</text>
+<text x="132" y="224" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">聪明睿知</text>
+<text x="240" y="224" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">宽裕温柔</text>
+<text x="348" y="224" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">发强刚毅</text>
+<text x="456" y="224" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">齐庄中正</text>
+<text x="564" y="224" font-size="11" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">文理密察</text>
+<text x="132" y="348" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">临</text>
+<text x="240" y="348" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">容</text>
+<text x="348" y="348" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">执</text>
+<text x="456" y="348" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">敬</text>
+<text x="564" y="348" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">别</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">唯天下至圣</text>
+<text x="560" y="440" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">五德各到极处，才托得住</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>衣锦尚絅图：锦衣与素纱</title>
+<desc>画面中央一件锦缎纹样细密，外罩半透素纱，纱外仅一线极淡的光自下而上渐亮。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<rect x="248" y="150" width="224" height="230" fill="#994433"/>
+<g stroke="#FCFAF6" stroke-width="1" opacity="0.7">
+<path d="M248 190 H472 M248 230 H472 M248 270 H472 M248 310 H472 M248 350 H472"/>
+<path d="M288 150 V380 M328 150 V380 M368 150 V380 M408 150 V380 M448 150 V380"/>
+</g>
+<rect x="232" y="136" width="256" height="258" fill="#FCFAF6" opacity="0.72" stroke="#DCD5C8" stroke-width="1"/>
+<text x="360" y="420" font-size="12" fill="#7C6D5C" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">锦在里，纱在外</text>
+<path d="M360 366 V120" stroke="#994433" stroke-width="2" opacity="0.5"/>
+<circle cx="360" cy="112" r="6" fill="#994433" opacity="0.35"/>
+<circle cx="360" cy="94" r="4" fill="#994433" opacity="0.2"/>
+<text x="376" y="100" font-size="12" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">闇然而日章</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">衣锦尚絅，恶其文之著</text>
+<text x="60" y="452" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">把光收住，它才长得久</text>
+</svg>

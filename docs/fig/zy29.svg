@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>三重图：六面校准</title>
+<desc>画面中央一杆秤，秤砣在心，六面：身、庶民、三王、天地、鬼神、百世，以细线连向秤心。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<circle cx="360" cy="250" r="46" fill="none" stroke="#994433" stroke-width="1.5"/>
+<text x="360" y="245" font-size="14" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">身</text>
+<text x="360" y="266" font-size="11" fill="#994433" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">砣</text>
+<path d="M360 204 V150 M360 250 H430" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M430 250 v34" stroke="#7C6D5C" stroke-width="1.2"/>
+<ellipse cx="430" cy="296" rx="26" ry="8" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+<circle cx="220" cy="140" r="5" fill="#7C6D5C"/>
+<circle cx="516" cy="128" r="5" fill="#7C6D5C"/>
+<circle cx="566" cy="250" r="5" fill="#7C6D5C"/>
+<circle cx="500" cy="376" r="5" fill="#25211D"/>
+<circle cx="220" cy="372" r="5" fill="#25211D"/>
+<circle cx="150" cy="250" r="5" fill="#7C6D5C"/>
+<path d="M220 140 L330 220 M516 128 L392 218 M566 250 L406 250 M500 376 L392 282 M220 372 L330 280 M150 250 L314 250" stroke="#DCD5C8" stroke-width="1"/>
+<text x="182" y="118" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">庶民</text>
+<text x="486" y="110" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">三王</text>
+<text x="576" y="254" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">天地</text>
+<text x="504" y="400" font-size="12" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">鬼神</text>
+<text x="182" y="398" font-size="12" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">百世</text>
+<text x="96" y="254" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">本诸身</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">王天下有三重</text>
+<text x="60" y="430" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">六面对证，缺一则偏</text>
+</svg>
