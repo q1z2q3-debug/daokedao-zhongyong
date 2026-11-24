@@ -5,7 +5,7 @@ type: book
 authors:
   - family-names: "润泽"
     given-names: "Runze"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-23
 url: "https://q1z2q3-debug.github.io/daokedao-zhongyong/"
 license: CC-BY-NC-SA-4.0
