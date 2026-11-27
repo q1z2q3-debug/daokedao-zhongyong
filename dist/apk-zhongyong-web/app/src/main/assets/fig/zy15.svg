@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>行远自迩图：一条小径与一架石阶</title>
+<desc>屋前一条小径伸向远山，山脚石阶自下而上；径与阶同起于屋前一点，表示远从近起、高从低起。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<path d="M40 420 H680" stroke="#DCD5C8" stroke-width="1"/>
+<path d="M520 300 L575 205 L620 250 L672 160 L700 300 Z" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+<path d="M545 280 L575 230 L605 265" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+<path d="M150 398 C260 372 330 340 420 300 C500 266 560 246 600 250" fill="none" stroke="#994433" stroke-width="2" stroke-dasharray="9 6"/>
+<circle cx="150" cy="398" r="5" fill="#994433"/>
+<rect x="88" y="392" width="56" height="40" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M82 392 L116 366 L150 392" fill="none" stroke="#7C6D5C" stroke-width="2"/>
+<rect x="106" y="406" width="12" height="26" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M600 300 h56 v-10 h-56 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M596 290 h60 v-10 h-60 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M592 280 h64 v-10 h-64 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M588 270 h68 v-10 h-68 Z" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1"/>
+<text x="88" y="352" font-size="14" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">家为起点</text>
+<text x="96" y="452" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">迩：脚下这一步</text>
+<text x="596" y="322" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">卑：最低一级</text>
+<text x="600" y="196" font-size="14" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">远：天边</text>
+<text x="470" y="176" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">高：一级一级垒</text>
+<text x="40" y="52" font-size="15" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">行远自迩　登高自卑</text>
+</svg>

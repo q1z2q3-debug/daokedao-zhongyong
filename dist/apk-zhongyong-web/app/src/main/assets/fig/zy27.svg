@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>大哉圣人之道图：山与网</title>
+<desc>左侧高山接天，标峻极于天；右侧密网，标威仪三千；山下与网边以赭线相连，线上立一人，标凝道。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<path d="M60 400 L176 150 L296 400 Z" fill="none" stroke="#7C6D5C" stroke-width="2"/>
+<path d="M176 150 L176 60" stroke="#7C6D5C" stroke-width="1.2" stroke-dasharray="6 6"/>
+<text x="150" y="46" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">峻极于天</text>
+<text x="96" y="428" font-size="13" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">洋洋：发育万物</text>
+<g stroke="#DCD5C8" stroke-width="1">
+<path d="M400 150 H640 M400 186 H640 M400 222 H640 M400 258 H640 M400 294 H640 M400 330 H640 M400 366 H640"/>
+<path d="M400 150 V366 M440 150 V366 M480 150 V366 M520 150 V366 M560 150 V366 M600 150 V366 M640 150 V366"/>
+</g>
+<rect x="392" y="142" width="256" height="232" fill="none" stroke="#7C6D5C" stroke-width="1.5"/>
+<text x="404" y="400" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">优优：礼仪三百，威仪三千</text>
+<path d="M296 400 C330 392 356 380 392 366" stroke="#994433" stroke-width="2"/>
+<circle cx="344" cy="352" r="13" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<path d="M344 365 V392 M332 378 L344 372 L356 378 M336 406 L344 392 L352 406" stroke="#994433" stroke-width="1.5"/>
+<text x="300" y="300" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">待其人</text>
+<text x="300" y="320" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">至德凝道</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">大哉圣人之道</text>
+</svg>

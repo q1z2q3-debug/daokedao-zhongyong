@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>至诚经纶图：织机</title>
+<desc>左侧一束乱丝，经机杼理成平行经线，与纬线交织成布；机杼上方标大本，布下接土生苗。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<g stroke="#7C6D5C" stroke-width="1">
+<path d="M90 170 C140 140 168 200 200 168 C232 138 262 190 292 172"/>
+<path d="M90 200 C142 180 172 232 206 200 C240 168 268 214 296 200"/>
+<path d="M92 232 C144 216 176 262 210 232 C244 204 270 244 298 232"/>
+</g>
+<rect x="300" y="120" width="300" height="230" fill="none" stroke="#25211D" stroke-width="1.5"/>
+<path d="M320 140 V330 M356 140 V330 M392 140 V330 M428 140 V330 M464 140 V330 M500 140 V330 M536 140 V330 M572 140 V330" stroke="#7C6D5C" stroke-width="1"/>
+<path d="M320 170 H574 M320 206 H574 M320 242 H574 M320 278 H574 M320 314 H574" stroke="#DCD5C8" stroke-width="1"/>
+<rect x="536" y="96" width="64" height="34" fill="#994433"/>
+<text x="568" y="119" font-size="12" fill="#FCFAF6" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">大本</text>
+<path d="M480 350 V404 M480 404 C508 398 524 414 546 404" stroke="#7C6D5C" stroke-width="1.5"/>
+<circle cx="546" cy="392" r="7" fill="none" stroke="#994433" stroke-width="1.2"/>
+<text x="90" y="282" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">乱丝</text>
+<text x="366" y="378" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">经纶成布</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">唯天下至诚</text>
+<text x="200" y="440" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">分其绪，比其类；布成而根在土</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>诚者自成图：印与树</title>
+<desc>中央一方印，印面刻自成；印边生出一棵树，树冠覆盖右侧房屋与田地，标成物。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<rect x="250" y="300" width="92" height="92" fill="#994433"/>
+<rect x="258" y="308" width="76" height="76" fill="none" stroke="#F7F4EE" stroke-width="1.5"/>
+<text x="296" y="330" font-size="15" fill="#F7F4EE" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">自</text>
+<text x="296" y="354" font-size="15" fill="#F7F4EE" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">成</text>
+<text x="296" y="382" font-size="12" fill="#F7F4EE" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif">诚</text>
+<path d="M296 300 C292 250 306 214 330 176" fill="none" stroke="#7C6D5C" stroke-width="3"/>
+<path d="M296 258 C330 250 352 226 350 196" fill="none" stroke="#7C6D5C" stroke-width="2"/>
+<path d="M300 238 C264 224 250 202 254 180" fill="none" stroke="#7C6D5C" stroke-width="2"/>
+<ellipse cx="326" cy="180" rx="86" ry="46" fill="none" stroke="#7C6D5C" stroke-width="1.2" opacity="0.55"/>
+<rect x="500" y="292" width="86" height="70" fill="#FCFAF6" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M492 292 L543 258 L594 292" fill="none" stroke="#7C6D5C" stroke-width="2"/>
+<path d="M470 400 h150 M486 386 h118 M500 372 h90" stroke="#DCD5C8" stroke-width="1.5"/>
+<text x="236" y="440" font-size="13" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">自成：先把自己立住</text>
+<text x="500" y="444" font-size="13" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">成物：让外面的事也立住</text>
+<text x="60" y="64" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">诚者自成，而道自道</text>
+</svg>

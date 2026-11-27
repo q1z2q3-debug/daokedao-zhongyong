@@ -1,0 +1,26 @@
+{
+  "slug": "zhongyong-web",
+  "out": "daokedao-zhongyong",
+  "package": "com.runze.daokedaozhongyong",
+  "app_name": "道可道之中庸",
+  "version_code": 1001,
+  "version_name": "1.0.1",
+  "docs": "docs",
+  "entry": "index.html",
+  "copy_files": ["index.html", "book.html"],
+  "copy_dirs": ["ch", "fig", "fu"],
+  "site_prefixes": [
+    "https://q1z2q3-debug.github.io/daokedao-zhongyong/",
+    "https://q1z2q3-debug.github.io/daokedao-zhongyong",
+    "/daokedao-zhongyong/"
+  ],
+  "bare_index_fix": true,
+  "strip_blocks": [["<!-- apk-dl:start -->", "<!-- apk-dl:end -->"]],
+  "strip_hrefs": ["sitemap.xml"],
+  "strip_link_regex": ["fonts/css2"],
+  "font": {
+    "family": "Noto Serif SC",
+    "aliases": ["Source Han Serif SC", "Songti SC"],
+    "weights": {"400": ["/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc", 2], "700": ["/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc", 2]}
+  }
+}

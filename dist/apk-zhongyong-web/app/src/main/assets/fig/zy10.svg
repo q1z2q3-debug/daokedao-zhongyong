@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<title>第十章义理图：四种强的一条轴</title>
+<desc>横轴左为南强柔忍化、右为北强刚死抗，中央双线区间标和而不流与中立而不倚；下方四印对人、对势、对境、对命。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+<g font-family="'Noto Serif SC','Songti SC',serif">
+<text x="360" y="44" font-size="13" text-anchor="middle" fill="#7C6D5C" letter-spacing="3">两端都是强，中段才是德</text>
+
+<line x1="60" y1="150" x2="660" y2="150" stroke="#25211D" stroke-width="1.5"/>
+
+<circle cx="120" cy="150" r="6" fill="#7C6D5C"/>
+<text x="120" y="126" font-size="12" text-anchor="middle" fill="#25211D">南</text>
+<text x="120" y="178" font-size="11" text-anchor="middle" fill="#7C6D5C">柔 · 忍 · 化</text>
+<text x="120" y="198" font-size="11" text-anchor="middle" fill="#7C6D5C">宽柔以教</text>
+
+<circle cx="600" cy="150" r="6" fill="#7C6D5C"/>
+<text x="600" y="126" font-size="12" text-anchor="middle" fill="#25211D">北</text>
+<text x="600" y="178" font-size="11" text-anchor="middle" fill="#7C6D5C">刚 · 死 · 抗</text>
+<text x="600" y="198" font-size="11" text-anchor="middle" fill="#7C6D5C">衽金革</text>
+
+<line x1="270" y1="130" x2="450" y2="130" stroke="#994433" stroke-width="1.2"/>
+<line x1="270" y1="170" x2="450" y2="170" stroke="#994433" stroke-width="1.2"/>
+<text x="360" y="122" font-size="12" text-anchor="middle" fill="#994433">和而不流</text>
+<text x="360" y="190" font-size="12" text-anchor="middle" fill="#994433">中立而不倚</text>
+<text x="360" y="212" font-size="11" text-anchor="middle" fill="#7C6D5C">柔刚并用，而不为柔刚所制</text>
+
+<rect x="60" y="266" width="600" height="150" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="80" y="294" font-size="12" fill="#7C6D5C">四关，缺一不成</text>
+<text x="80" y="324" font-size="13" fill="#25211D">对人：和众而不被卷走</text>
+<text x="80" y="352" font-size="13" fill="#25211D">对势：立中而不靠任何一边</text>
+<text x="80" y="380" font-size="13" fill="#25211D">对境：顺境不改未达时的守</text>
+<text x="80" y="408" font-size="13" fill="#25211D">对命：逆境守到死也不改形状</text>
+</g>
+</svg>

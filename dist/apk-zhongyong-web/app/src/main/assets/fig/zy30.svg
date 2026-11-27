@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img">
+<title>祖述尧舜图：四源汇流</title>
+<desc>左上尧舜、左下文武两条源流，上方天时线、下方水土线，四线汇入中央大河，河分细流又归厚土。</desc>
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<path d="M60 110 C130 130 176 170 236 214" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M60 330 C130 310 176 280 236 250" stroke="#7C6D5C" stroke-width="1.5"/>
+<path d="M120 52 H360" stroke="#DCD5C8" stroke-width="1.5"/>
+<path d="M120 424 H360" stroke="#DCD5C8" stroke-width="1.5"/>
+<text x="40" y="100" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">祖述尧舜</text>
+<text x="40" y="350" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">宪章文武</text>
+<text x="126" y="44" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">上律天时</text>
+<text x="126" y="446" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">下袭水土</text>
+<path d="M236 214 C300 220 340 232 384 236" stroke="#994433" stroke-width="2"/>
+<path d="M236 250 C300 244 340 240 384 240" stroke="#994433" stroke-width="2"/>
+<path d="M360 52 C382 100 380 160 392 224" stroke="#DCD5C8" stroke-width="1.5"/>
+<path d="M360 424 C382 380 380 320 392 258" stroke="#DCD5C8" stroke-width="1.5"/>
+<path d="M384 232 C440 230 470 240 500 250" stroke="#994433" stroke-width="6"/>
+<path d="M500 250 C540 262 566 288 576 320" stroke="#994433" stroke-width="4"/>
+<path d="M500 250 C530 240 556 224 588 210" stroke="#994433" stroke-width="2"/>
+<path d="M500 250 C534 250 560 250 592 250" stroke="#994433" stroke-width="2"/>
+<path d="M576 320 C570 360 540 396 500 410" stroke="#7C6D5C" stroke-width="1.5"/>
+<text x="446" y="204" font-size="12" fill="#994433" font-family="'Noto Serif SC','Songti SC',serif">小德川流</text>
+<text x="500" y="440" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">大德敦化：归厚土</text>
+<text x="40" y="200" font-size="15" fill="#25211D" font-family="'Noto Serif SC','Songti SC',serif">仲尼</text>
+<text x="40" y="222" font-size="12" fill="#7C6D5C" font-family="'Noto Serif SC','Songti SC',serif">四源汇流</text>
+</svg>
